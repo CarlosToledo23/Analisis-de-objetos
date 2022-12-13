@@ -1,0 +1,20 @@
+.heading {
+    width: 80%;
+    font-size: 20px;
+}
+body{
+background-color: indianred;
+color: black;
+}
+.objects{
+    color: goldenrod;
+    font-size: 22px;
+}
+#camara{
+    width: 350px;
+    height: 300px;
+    border: 3px dotted goldenrod;
+}
+#result_name, #result_accuracy{
+    color: saddlebrown;
+}
